@@ -36,4 +36,6 @@ public class UserController {
 
         return ResponseEntity.ok("URL 수신 및 저장 완료: " + receivedUrl);
     }
+
+    
 }
